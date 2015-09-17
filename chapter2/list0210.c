@@ -11,7 +11,7 @@ int main(void)
     printf("整数Ａ："); scanf("%d", &na);
     printf("整数Ｂ："); scanf("%d", &nb);
 
-    printf("それらの平均は %f です。\n", (double)(na + nb) / 2.0);
+    printf("それらの平均は %f です。\n", (double)(na + nb) / 2);
 
     return (0);
 }
